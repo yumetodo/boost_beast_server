@@ -1,3 +1,10 @@
+/*=============================================================================
+  Copyright (c) 2016-2019 Vinnie Falco (vinnie dot falco at gmail dot com)
+  Copyright (C) 2020 yumetodo <yume-wikijp@live.jp>
+  Distributed under the Boost Software License, Version 1.0.
+  (See https://www.boost.org/LICENSE_1_0.txt)
+=============================================================================*/
+
 #ifndef BOOST_BEAST_SERVER_HTTP_SERVER_HPP_
 #define BOOST_BEAST_SERVER_HTTP_SERVER_HPP_
 #ifndef _WIN32_WINNT
